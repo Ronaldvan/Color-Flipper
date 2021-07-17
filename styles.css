@@ -266,3 +266,15 @@ main {
     color: var(--clr-white);
     background: var(--clr-black);
 }
+
+.fab {
+    font-size: 2.5rem;
+}
+
+.github {
+    padding-top: 20px;
+}
+
+.fab:hover {
+    color: var(--clr-black);
+}
